@@ -1,0 +1,15 @@
+{
+  "name": "qbo-oauth-proxy",
+  "version": "1.0.0",
+  "description": "QuickBooks OAuth proxy for Google Apps Script /usercallback",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
